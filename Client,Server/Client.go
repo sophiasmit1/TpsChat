@@ -6,7 +6,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/richard-lyman/lithcrypt"
+	"github.com/richard-lyman/lithcrypt" //Пак с шифром
 )
 
 var source string
